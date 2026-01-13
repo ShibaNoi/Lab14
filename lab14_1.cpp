@@ -22,9 +22,4 @@ void insertionSort(T d[], int N)
         }
         cout << endl;
     }
-}
-
-
-
-
-
+} 
